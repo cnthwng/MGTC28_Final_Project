@@ -1,5 +1,5 @@
 # MGTC28_Final_Project
-## *Part 1: Project Plan*
+## <Part 1: Project Plan>
 
 **Overview of Approach:** We plan to approach this project by first reviewing and cleaning the five datasets provided to identify any trends. We have created a GitHub repository to add all of the code and data analyses conducted by our team members, which will help facilitate collaboration throughout this project. 
 	The members of this group include Athena, Cynthia, and Monica. The initial division of labor involves distributing the five different datasets among the three of us to create preliminary data visualizations. The preliminary analyses will help us determine the dataset(s) we will focus on and choose a Need State to further examine. After determining our Need State and datasets of interest, we will conduct additional analyses to create a go-to market strategy with recommendations. All of our members will be involved in the coding of this project, as well as the creation of the slides and delivery of the final presentation. 
