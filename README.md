@@ -9,6 +9,7 @@
 	**External Data:** Moving forward, we plan to extract external data from Passport GMID, which provides statistics and qualitative reports of consumer markets. This database allows us to conduct analyses on specific sectors like ‘Consumer Health Canada’ and various product types, which will help provide deeper insights. We will also explore other online data sources such as SimplyAnalytics.
 
 	**Technologies Involved:** Technologies we will utilize include Python software (through Jupyter Notebook), GitHub, PowerPoint, and potentially Tableau. Specific libraries we will use include Pandas, to assist in automating data manipulations for the different datasets provided. Pandas’ statistical functions would allow ease in sorting and organizing the data, making it easier to work with the various variables provided. Another library we will use is Seaborn, to help visualize the information from the dataframes created. Seaborn enables us to gain insights into relationships within variables and identify trends within the data. 
-	
+
+ 
  	For next steps, we have decided to move forward with either Need State 1 or 5, the Need States we have observed the most trends from. We will combine the datasets for the chosen Need State and obtain external data to conduct additional analyses to inform our recommendations. From our initial observations, there is a seasonality component for these Need States so our recommendations will likely involve decisions Kenvue can make to optimize trade spend on products and sales made to retailers, within particular periods. 
 
