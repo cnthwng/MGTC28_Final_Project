@@ -2,14 +2,16 @@
 ## *Project Description*
 The project contains the coding scripts, in Jupyter Notebook format, used to organize, visualize, and combine the five datasets provided. This was achieved by utilizing the **pandas library** to clean and combine all the datasets. Additionally, the **seaborn library** & **matplotlib library** were used to visualize the data from the data frames. After our initial analysis, a single data frame containing all formatted data was exported as a CSV file to Tableau for additional data visualization and trend analysis.  
 
+<br/> 
   
 #### *Documentation for Libraries Used:*
 * [pandas](https://pandas.pydata.org/docs)
 * [seaborn](https://seaborn.pydata.org)
 * [matplotlib](https://matplotlib.org/stable/index.html)
 
+<br/> 
+<br/> 
 
-##
 ## *Organization of Repository*
 This repository contains the following directories:
 * **data/** Consists of two subdirectories: 1) Contains all raw data files provided. 2) Contains a file with all of the cleaned data in CSV format.
@@ -19,8 +21,8 @@ This repository contains the following directories:
 	
 
 
+<br/> 
 
-##
 ## *Part 1: Project Plan*
 
 **Overview of Approach:** We plan to approach this project by first reviewing and cleaning the five datasets provided to identify any trends. We have created a GitHub repository to add all of the code and data analyses conducted by our team members, which will help facilitate collaboration throughout this project. 
