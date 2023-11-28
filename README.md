@@ -1,6 +1,14 @@
 # MGTC28_Final_Project
 ## *Project Description*
-The project contains the coding scripts, in Jupyter Notebook format, used to organize, visualize, and combine the five datasets provided. This was achieved by utilizing the **pandas library** to clean and combine all the datasets. Additionally, the **seaborn library** & **matplotlib library** were used to visualize the data from the data frames. After our initial analysis, a single data frame containing all formatted data was exported as a CSV file to Tableau for additional data visualization and trend analysis. 
+The project contains the coding scripts, in Jupyter Notebook format, used to organize, visualize, and combine the five datasets provided. This was achieved by utilizing the **pandas library** to clean and combine all the datasets. Additionally, the **seaborn library** & **matplotlib library** were used to visualize the data from the data frames. After our initial analysis, a single data frame containing all formatted data was exported as a CSV file to Tableau for additional data visualization and trend analysis.  
+
+  
+#### *Documentation for Libraries Used:*
+* [pandas](https://pandas.pydata.org/docs)
+* [seaborn](https://seaborn.pydata.org)
+* [matplotlib](https://matplotlib.org/stable/index.html)
+
+
 
 ## *Organization of Repository*
 This repository contains the following directories:
@@ -9,11 +17,6 @@ This repository contains the following directories:
 * **documents/** Contains a markdown file which outlines the Project Plan
 
 	
-  
-#### *Documentation for Libraries Used:*
-* [pandas](https://pandas.pydata.org/docs)
-* [seaborn](https://seaborn.pydata.org)
-* [matplotlib](https://matplotlib.org/stable/index.html)
 
 
 
