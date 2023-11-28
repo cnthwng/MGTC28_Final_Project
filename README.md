@@ -11,9 +11,9 @@ This repository contains the following directories:
 	
   
 #### *Documentation for Libraries Used:*
-* [pandas]([[url](https://pandas.pydata.org/docs/))
-* [seaborn]([url](https://seaborn.pydata.org/))
-*[ matplotlib]([url](https://matplotlib.org/stable/index.html))
+* [pandas]((https://pandas.pydata.org/docs/)
+* [seaborn]((https://seaborn.pydata.org/))
+* [matplotlib](https://matplotlib.org/stable/index.html)
 
 
 
