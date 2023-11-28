@@ -8,11 +8,13 @@ This repository contains the following directories:
 * **script/** Contains a subdirectory "Analysis & Plots" which contains the Jupyter Notebook files for the initial analysis and plotting for each CSV file with the raw data provided. This initial analysis provided the team with additional context which assisted in drafting the Project Plan. The Jupyter Notebook file "Data Cleaning & Combining" outlines the script used to create a CSV file containing all data from the different files formatted consistently. This was the file exported to Tableau.
 * **documents/** Contains a markdown file which outlines the Project Plan
 
+	
   
 #### *Documentation for Libraries Used:*
 * [pandas]([url](https://pandas.pydata.org/docs/))
 * [seaborn]([url](https://seaborn.pydata.org/))
 *[ matplotlib]([url](https://matplotlib.org/stable/index.html))
+
 
 
 
