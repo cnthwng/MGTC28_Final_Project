@@ -1,6 +1,6 @@
 # MGTC28_Final_Project
 ## *Project Description*
-The project contains the coding scripts, in Jupyter Notebook format, used to organize, visualize, and combine the five datasets provided. This was achieved by utilizing the **pandas library** to clean and combine all the datasets. Additionally, the **seaborn library** & **matplotlib library** were used to visualize the data from the data frames. After our initial analysis, a single data frame containing all formatted data was exported as a CSV file to Tableau for additional data visualization and trend analysis.  
+The project contains the coding scripts, in Jupyter Notebook format, used to organize, visualize, and combine the five datasets provided. This was achieved by utilizing the **pandas library** to clean and combine all the datasets. Additionally, the **seaborn library** & **matplotlib library** were used to visualize the data from the data frames. After our initial analysis, a single data frame containing all formatted data was exported as a CSV file to Tableau for additional data visualization and trend analysis. Data visualization of data can be found in the Tableau workbook in the **scripts** directory. 
 
 <br/> 
   
@@ -15,7 +15,7 @@ The project contains the coding scripts, in Jupyter Notebook format, used to org
 ## *Organization of Repository*
 This repository contains the following directories:
 * **data/** Consists of two subdirectories: 1) Contains all raw data files provided. 2) Contains a file with all of the cleaned data in CSV format.
-* **script/** Contains a subdirectory "Analysis & Plots" which contains the Jupyter Notebook files for the initial analysis and plotting for each CSV file with the raw data provided. This initial analysis provided the team with additional context which assisted in drafting the Project Plan. The Jupyter Notebook file "Data Cleaning & Combining" outlines the script used to create a CSV file containing all data from the different files formatted consistently. This was the file exported to Tableau.
+* **script/** Contains a subdirectory "Analysis & Plots" which contains the Jupyter Notebook files for the initial analysis and plotting for each CSV file with the raw data provided. This initial analysis provided the team with additional context which assisted in drafting the Project Plan. The Jupyter Notebook file "Data Cleaning & Combining" outlines the script used to create a CSV file containing all data from the different files formatted consistently. In addition, the Tableau Workbook containing visualized data is contained in this directory. 
 * **documents/** Contains a markdown file which outlines the Project Plan
 
 	
